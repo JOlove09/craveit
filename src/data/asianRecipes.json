@@ -1,0 +1,3546 @@
+[
+  {
+    "idMeal": "local-1",
+    "strMeal": "Chana Masala",
+    "strMealThumb": "/images/chana-masala.webp",
+    "strArea": "Indian",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Tomatoes",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Ginger garlic paste",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Garam masala",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Cumin",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Sauté chopped onion in oil until golden.",
+      "Stir in ginger garlic paste, cumin and garam masala.",
+      "Add chopped tomatoes and cook until soft.",
+      "Add cooked chickpeas and a splash of water; simmer 12 minutes.",
+      "Season and serve with rice or roti."
+    ]
+  },
+  {
+    "idMeal": "local-2",
+    "strMeal": "Palak Paneer",
+    "strMealThumb": "/images/palak-paneer.webp",
+    "strArea": "Indian",
+    "strCategory": "Vegetarian",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Spinach",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "Paneer",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Tomato",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "3 cloves"
+      },
+      {
+        "ingredient": "Cumin",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Cream",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Blanch spinach briefly and blend to a purée.",
+      "Sauté onion, garlic and cumin until fragrant.",
+      "Add tomato and cook until soft.",
+      "Stir in spinach purée and simmer.",
+      "Add paneer cubes and finish with cream."
+    ]
+  },
+  {
+    "idMeal": "local-3",
+    "strMeal": "Vegetable Pulao",
+    "strMealThumb": "/images/vegetable-pulao.webp",
+    "strArea": "Indian",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Mixed vegetables",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Cumin",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Bay leaf",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Rinse and soak rice for 15 minutes.",
+      "Sauté cumin, bay leaf and sliced onion.",
+      "Add vegetables and cook for 3 minutes.",
+      "Stir in rice and water, cover and cook until tender.",
+      "Fluff gently and serve warm."
+    ]
+  },
+  {
+    "idMeal": "local-4",
+    "strMeal": "Vegetable Bibimbap",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vegetable_Dolsot_Bibimbap_-_Goshen_%284844718827%29.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Vegetarian",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Cooked rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Spinach",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Mushrooms",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Gochujang",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Cook rice and keep warm.",
+      "Sauté carrot, spinach and mushrooms separately.",
+      "Fry eggs to your preference.",
+      "Arrange vegetables over rice and top with an egg.",
+      "Add gochujang and sesame oil, then mix before eating."
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Vegetable_Dolsot_Bibimbap_-_Goshen_(4844718827).jpg",
+    "imageLicense": "CC BY-SA 2.0"
+  },
+  {
+    "idMeal": "local-5",
+    "strMeal": "Kimchi Fried Rice",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kimchi_fried_rice.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Cooked rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Vegan kimchi",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Spring onions",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Neutral oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Check that the kimchi is vegan and contains no fish sauce.",
+      "Chop kimchi and spring onions.",
+      "Stir-fry kimchi in oil for 2 minutes.",
+      "Add rice and soy sauce, tossing until hot.",
+      "Finish with sesame oil and spring onions."
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kimchi_fried_rice.jpg",
+    "imageLicense": "CC0 1.0"
+  },
+  {
+    "idMeal": "local-6",
+    "strMeal": "Japchae Glass Noodles",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Korean_cuisine_japchae.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato glass noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "Carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Spinach",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Mushrooms",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Boil noodles according to the packet and drain.",
+      "Sauté sliced carrot and mushrooms.",
+      "Blanch spinach and squeeze out excess water.",
+      "Toss noodles and vegetables with soy sauce, sesame oil and sugar.",
+      "Serve warm or at room temperature."
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Korean_cuisine_japchae.jpg",
+    "imageLicense": "CC BY 2.0"
+  },
+  {
+    "idMeal": "local-7",
+    "strMeal": "Vegetable Miso Soup",
+    "strMealThumb": "/images/photo-4.webp",
+    "strArea": "Japanese",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Vegetable stock",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "Vegan miso paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Silken tofu",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "Wakame",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Spring onions",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Warm vegetable stock without boiling vigorously.",
+      "Add tofu cubes and rehydrated wakame.",
+      "Mix miso with a little warm stock in a separate bowl.",
+      "Turn off the heat and stir miso mixture into soup.",
+      "Garnish with spring onions."
+    ]
+  },
+  {
+    "idMeal": "local-8",
+    "strMeal": "Onigiri Rice Balls",
+    "strMealThumb": "/images/photo-5.webp",
+    "strArea": "Japanese",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Japanese short grain rice",
+        "measure": "2 cups cooked"
+      },
+      {
+        "ingredient": "Nori sheets",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "to taste"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Pickled plum",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Cook rice and let it cool until safe to handle.",
+      "Wet and lightly salt your hands.",
+      "Place rice in your palm and add a little pickled plum.",
+      "Shape into a triangle and wrap with nori.",
+      "Sprinkle with sesame seeds."
+    ]
+  },
+  {
+    "idMeal": "local-9",
+    "strMeal": "Garlic Vegetable Noodles",
+    "strMealThumb": "/images/recipe-9.svg",
+    "strArea": "Chinese",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "Cabbage",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "4 cloves"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Cook noodles and drain.",
+      "Sauté chopped garlic in a little oil.",
+      "Add shredded cabbage and carrot and stir-fry until crisp-tender.",
+      "Toss in noodles and soy sauce.",
+      "Finish with sesame oil and serve."
+    ]
+  },
+  {
+    "idMeal": "local-10",
+    "strMeal": "Egg Fried Rice",
+    "strMealThumb": "/images/recipe-10.svg",
+    "strArea": "Chinese",
+    "strCategory": "Vegetarian",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Cooked rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Peas",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Spring onions",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Scramble eggs in a hot pan and set aside.",
+      "Stir-fry diced carrot and peas.",
+      "Add cold cooked rice and break up clumps.",
+      "Mix in soy sauce and scrambled eggs.",
+      "Finish with chopped spring onions."
+    ]
+  },
+  {
+    "idMeal": "local-11",
+    "strMeal": "Thai Basil Tofu",
+    "strMealThumb": "/images/photo-6.webp",
+    "strArea": "Thai",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Firm tofu",
+        "measure": "250 g"
+      },
+      {
+        "ingredient": "Thai basil",
+        "measure": "1 handful"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "3 cloves"
+      },
+      {
+        "ingredient": "Chilli",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Press and cube tofu.",
+      "Pan-fry tofu until lightly golden.",
+      "Add garlic and chilli and stir-fry briefly.",
+      "Toss with soy sauce and sugar.",
+      "Turn off heat, fold in Thai basil and serve over rice."
+    ]
+  },
+  {
+    "idMeal": "local-12",
+    "strMeal": "Coconut Vegetable Curry",
+    "strMealThumb": "/images/recipe-12.svg",
+    "strArea": "Thai",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Coconut milk",
+        "measure": "400 ml"
+      },
+      {
+        "ingredient": "Mixed vegetables",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Vegan red curry paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Tofu",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Check that curry paste contains no shrimp or fish.",
+      "Fry curry paste in oil until fragrant.",
+      "Add coconut milk and bring to a gentle simmer.",
+      "Add vegetables and tofu; cook until tender.",
+      "Finish with lime juice and serve with rice."
+    ]
+  },
+  {
+    "idMeal": "local-13",
+    "strMeal": "Fresh Summer Rolls",
+    "strMealThumb": "/images/recipe-13.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Rice paper wrappers",
+        "measure": "8"
+      },
+      {
+        "ingredient": "Rice vermicelli",
+        "measure": "100 g"
+      },
+      {
+        "ingredient": "Cucumber",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Lettuce",
+        "measure": "8 leaves"
+      },
+      {
+        "ingredient": "Mint",
+        "measure": "1 handful"
+      }
+    ],
+    "steps": [
+      "Cook vermicelli and cool.",
+      "Slice cucumber and carrot into thin strips.",
+      "Soften rice paper in warm water one sheet at a time.",
+      "Layer lettuce, noodles, vegetables and mint.",
+      "Roll tightly and serve with a suitable dipping sauce."
+    ]
+  },
+  {
+    "idMeal": "local-14",
+    "strMeal": "Lemongrass Tofu Bowl",
+    "strMealThumb": "/images/recipe-14.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Firm tofu",
+        "measure": "250 g"
+      },
+      {
+        "ingredient": "Lemongrass",
+        "measure": "1 stalk"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Rice",
+        "measure": "2 cups cooked"
+      },
+      {
+        "ingredient": "Cucumber",
+        "measure": "1"
+      }
+    ],
+    "steps": [
+      "Finely chop lemongrass and garlic.",
+      "Marinate tofu in lemongrass, garlic and soy sauce.",
+      "Pan-fry tofu until golden.",
+      "Arrange rice and cucumber in bowls.",
+      "Top with tofu and serve."
+    ]
+  },
+  {
+    "idMeal": "local-15",
+    "strMeal": "Vegetable Nasi Goreng",
+    "strMealThumb": "/images/recipe-15.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Cooked rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Green beans",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Chilli paste",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Use cold cooked rice for best texture.",
+      "Sauté garlic and chilli paste.",
+      "Stir-fry diced carrot and beans until tender.",
+      "Add rice and soy sauce and toss until hot.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "idMeal": "local-16",
+    "strMeal": "Garlic Fried Rice",
+    "strMealThumb": "/images/recipe-16.svg",
+    "strArea": "Filipino",
+    "strCategory": "Vegan",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Cooked rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "6 cloves"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "to taste"
+      },
+      {
+        "ingredient": "Spring onions",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Thinly slice garlic.",
+      "Fry garlic in oil until golden; reserve half for topping.",
+      "Add cooked rice to the garlic oil.",
+      "Stir-fry until hot and season with salt.",
+      "Top with reserved garlic and spring onions."
+    ]
+  },
+  {
+    "idMeal": "local-17",
+    "strMeal": "Masala Dosa",
+    "strMealThumb": "/images/recipe-17.svg",
+    "strArea": "Indian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "dosa batter",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "potatoes",
+        "measure": "3"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "mustard seeds",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "turmeric",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Boil and mash potatoes",
+      "Temper mustard seeds in oil, add onion and turmeric, then fold in potatoes",
+      "Spread dosa batter thinly on a hot greased pan and cook until crisp",
+      "Fill with potato masala and serve with chutney"
+    ]
+  },
+  {
+    "idMeal": "local-18",
+    "strMeal": "Paneer Butter Masala",
+    "strMealThumb": "/images/recipe-18.svg",
+    "strArea": "Indian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "paneer",
+        "measure": "250 g"
+      },
+      {
+        "ingredient": "tomatoes",
+        "measure": "3"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "butter",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "cream",
+        "measure": "3 tbsp"
+      },
+      {
+        "ingredient": "garam masala",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Sauté onion and tomatoes in butter until soft, then blend smooth",
+      "Simmer sauce with garam masala and a splash of water",
+      "Add paneer cubes and cook gently for 5 minutes",
+      "Finish with cream and serve"
+    ]
+  },
+  {
+    "idMeal": "local-19",
+    "strMeal": "Aloo Gobi",
+    "strMealThumb": "/images/recipe-19.svg",
+    "strArea": "Indian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "potatoes",
+        "measure": "2"
+      },
+      {
+        "ingredient": "cauliflower",
+        "measure": "1 small"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "cumin",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "turmeric",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Cut potatoes and cauliflower into bite-size pieces",
+      "Temper cumin in oil and sauté onion",
+      "Add vegetables, turmeric and salt, cover and cook until tender",
+      "Uncover to dry any excess moisture"
+    ]
+  },
+  {
+    "idMeal": "local-20",
+    "strMeal": "Dal Tadka",
+    "strMealThumb": "/images/recipe-20.svg",
+    "strArea": "Indian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "toor dal",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "tomato",
+        "measure": "1"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "cumin",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "turmeric",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "ghee",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Boil dal with turmeric and tomato until soft",
+      "Whisk dal and adjust consistency with water",
+      "Heat ghee and fry cumin and sliced garlic until aromatic",
+      "Pour the tempering over the dal and serve"
+    ]
+  },
+  {
+    "idMeal": "local-21",
+    "strMeal": "Vegetable Biryani",
+    "strMealThumb": "/images/recipe-21.svg",
+    "strArea": "Indian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "basmati rice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "mixed vegetables",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "yogurt",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "biryani masala",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Soak rice for 20 minutes and partially cook in salted water",
+      "Sauté sliced onion and vegetables with biryani masala",
+      "Stir in yogurt and layer the rice over the vegetables",
+      "Cover tightly and cook on low heat until rice is tender"
+    ]
+  },
+  {
+    "idMeal": "local-22",
+    "strMeal": "Idli Sambar",
+    "strMealThumb": "/images/recipe-22.svg",
+    "strArea": "Indian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "idlis",
+        "measure": "6"
+      },
+      {
+        "ingredient": "toor dal",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "mixed vegetables",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "sambar powder",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "tamarind pulp",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "mustard seeds",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Steam prepared idli batter in molds if making idlis fresh",
+      "Cook dal until soft and boil vegetables separately",
+      "Simmer dal and vegetables with sambar powder and tamarind",
+      "Temper mustard seeds and add to sambar, then serve with idlis"
+    ]
+  },
+  {
+    "idMeal": "local-23",
+    "strMeal": "Rajma Chawal",
+    "strMealThumb": "/images/recipe-23.svg",
+    "strArea": "Indian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "dry kidney beans",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "basmati rice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "tomatoes",
+        "measure": "2"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "garam masala",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Soak kidney beans overnight and pressure-cook until fully tender",
+      "Sauté onion and tomatoes with garam masala",
+      "Simmer cooked beans in the gravy for 15 minutes",
+      "Cook rice separately and serve together"
+    ]
+  },
+  {
+    "idMeal": "local-24",
+    "strMeal": "Tteokbokki",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Korean.snacks-Tteokbokki-08.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "Korean rice cakes",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "gochujang",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "water",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "spring onions",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Soak rice cakes briefly if firm",
+      "Simmer water with gochujang, soy sauce and sugar",
+      "Add rice cakes and cook until sauce thickens and cakes soften",
+      "Top with sliced spring onions"
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Korean.snacks-Tteokbokki-08.jpg",
+    "imageLicense": "CC BY 2.0"
+  },
+  {
+    "idMeal": "local-25",
+    "strMeal": "Kimchi Jjigae",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Korean_stew-Kimchi_jjigae-01.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "aged kimchi",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "firm tofu",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "gochugaru",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "vegetable stock",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "sesame oil",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Sauté kimchi and onion in sesame oil",
+      "Add stock and gochugaru and simmer for 15 minutes",
+      "Add sliced tofu and simmer another 5 minutes",
+      "Serve hot with rice"
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Korean_stew-Kimchi_jjigae-01.jpg",
+    "imageLicense": "CC BY-SA 2.0"
+  },
+  {
+    "idMeal": "local-26",
+    "strMeal": "Bulgogi",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bulgogi_3.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "thinly sliced beef",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "sesame oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "pear",
+        "measure": "1/2"
+      }
+    ],
+    "steps": [
+      "Grate pear and mix with soy sauce, sugar, sesame oil and garlic",
+      "Marinate beef for at least 30 minutes in the refrigerator",
+      "Stir-fry beef in a very hot pan until fully cooked",
+      "Serve with rice and lettuce"
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bulgogi_3.jpg",
+    "imageLicense": "CC BY 2.0"
+  },
+  {
+    "idMeal": "local-27",
+    "strMeal": "Pajeon",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Korean_pancake-Pajeon-06.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "water",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "spring onions",
+        "measure": "1 bunch"
+      },
+      {
+        "ingredient": "egg",
+        "measure": "1"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk flour, water and egg into a light batter",
+      "Arrange spring onions in a lightly oiled hot pan",
+      "Pour batter over and cook until underside is golden",
+      "Flip, crisp the other side and serve with soy dipping sauce"
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Korean_pancake-Pajeon-06.jpg",
+    "imageLicense": "CC BY 2.0"
+  },
+  {
+    "idMeal": "local-28",
+    "strMeal": "Kimbap",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gimbap_%28pixabay%29.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "gim seaweed",
+        "measure": "3 sheets"
+      },
+      {
+        "ingredient": "cooked short-grain rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "cucumber",
+        "measure": "1"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "sesame oil",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Season warm rice with sesame oil and salt",
+      "Cook a thin egg omelet and slice into strips",
+      "Place rice and vegetable strips on gim sheets",
+      "Roll tightly, slice and serve"
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gimbap_(pixabay).jpg",
+    "imageLicense": "CC0 1.0"
+  },
+  {
+    "idMeal": "local-29",
+    "strMeal": "Sundubu Jjigae",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sundubu-jjigae_2.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "soft tofu",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "gochugaru",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "vegetable stock",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "egg",
+        "measure": "1"
+      }
+    ],
+    "steps": [
+      "Sauté onion and garlic with gochugaru in a little oil",
+      "Pour in stock and bring to a simmer",
+      "Add soft tofu in large spoonfuls and cook for 5 minutes",
+      "Crack in egg and simmer until cooked to preference"
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sundubu-jjigae_2.jpg",
+    "imageLicense": "CC BY 4.0"
+  },
+  {
+    "idMeal": "local-30",
+    "strMeal": "Korean Fried Chicken",
+    "strMealThumb": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Korean_fried_chicken_3_banban.jpg?width=1000",
+    "strArea": "Korean",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken wings",
+        "measure": "400 g"
+      },
+      {
+        "ingredient": "cornstarch",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "gochujang",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "honey",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      }
+    ],
+    "steps": [
+      "Coat chicken wings lightly in cornstarch",
+      "Fry in batches until golden and fully cooked to 74°C internally",
+      "Simmer gochujang, honey, soy sauce and garlic into a glaze",
+      "Toss chicken in glaze just before serving"
+    ],
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Korean_fried_chicken_3_banban.jpg",
+    "imageLicense": "CC BY 2.0 KR"
+  },
+  {
+    "idMeal": "local-31",
+    "strMeal": "Ramen",
+    "strMealThumb": "/images/recipe-31.svg",
+    "strArea": "Japanese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "ramen noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "vegetable broth",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "miso paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "mushrooms",
+        "measure": "100 g"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "spring onions",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Simmer broth with sliced mushrooms",
+      "Dissolve miso in a little warm broth and stir back without vigorous boiling",
+      "Cook noodles separately and boil eggs to preference",
+      "Assemble bowls with noodles, broth, eggs and spring onions"
+    ]
+  },
+  {
+    "idMeal": "local-32",
+    "strMeal": "Vegetable Sushi",
+    "strMealThumb": "/images/recipe-32.svg",
+    "strArea": "Japanese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "cooked sushi rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "nori",
+        "measure": "3 sheets"
+      },
+      {
+        "ingredient": "cucumber",
+        "measure": "1"
+      },
+      {
+        "ingredient": "avocado",
+        "measure": "1"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "rice vinegar",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Season warm sushi rice with rice vinegar and cool",
+      "Cut vegetables into thin strips",
+      "Spread rice on nori and arrange vegetables across the center",
+      "Roll firmly, slice with a damp knife and serve"
+    ]
+  },
+  {
+    "idMeal": "local-33",
+    "strMeal": "Chicken Teriyaki",
+    "strMealThumb": "/images/recipe-33.svg",
+    "strArea": "Japanese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken thighs",
+        "measure": "350 g"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "3 tbsp"
+      },
+      {
+        "ingredient": "mirin",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "grated ginger",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Mix soy sauce, mirin, sugar and ginger",
+      "Sear chicken in oil until browned and fully cooked",
+      "Add sauce and simmer until glossy",
+      "Slice and serve over rice"
+    ]
+  },
+  {
+    "idMeal": "local-34",
+    "strMeal": "Tempura Vegetables",
+    "strMealThumb": "/images/recipe-34.svg",
+    "strArea": "Japanese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "plain flour",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "ice-cold sparkling water",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "sweet potato",
+        "measure": "1"
+      },
+      {
+        "ingredient": "green beans",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "frying oil",
+        "measure": "2 cups"
+      }
+    ],
+    "steps": [
+      "Slice vegetables thinly and dry well",
+      "Mix flour and icy water briefly, leaving small lumps",
+      "Dip vegetables in batter and fry in small batches until crisp",
+      "Drain on a rack and serve immediately"
+    ]
+  },
+  {
+    "idMeal": "local-35",
+    "strMeal": "Yakisoba",
+    "strMealThumb": "/images/recipe-35.svg",
+    "strArea": "Japanese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "yakisoba noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "shredded cabbage",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "yakisoba sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Loosen noodles according to package instructions",
+      "Stir-fry sliced onion, carrot and cabbage",
+      "Add noodles and sauce and toss over high heat",
+      "Serve hot"
+    ]
+  },
+  {
+    "idMeal": "local-36",
+    "strMeal": "Okonomiyaki",
+    "strMealThumb": "/images/recipe-36.svg",
+    "strArea": "Japanese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "shredded cabbage",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "flour",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "water",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "spring onions",
+        "measure": "2"
+      },
+      {
+        "ingredient": "okonomiyaki sauce",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk flour, eggs and water to make batter",
+      "Fold in cabbage and spring onions",
+      "Cook thick pancakes in an oiled pan until browned on both sides and cooked through",
+      "Top with okonomiyaki sauce"
+    ]
+  },
+  {
+    "idMeal": "local-37",
+    "strMeal": "Japanese Curry Rice",
+    "strMealThumb": "/images/recipe-37.svg",
+    "strArea": "Japanese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "mixed vegetables",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "potatoes",
+        "measure": "2"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Japanese curry roux",
+        "measure": "2 blocks"
+      },
+      {
+        "ingredient": "water",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "cooked rice",
+        "measure": "2 cups"
+      }
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetables",
+      "Add water and simmer until potatoes are tender",
+      "Turn heat low and dissolve curry roux blocks into the broth",
+      "Simmer until thick and serve over rice"
+    ]
+  },
+  {
+    "idMeal": "local-38",
+    "strMeal": "Gyoza",
+    "strMealThumb": "/images/recipe-38.svg",
+    "strArea": "Japanese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "gyoza wrappers",
+        "measure": "20"
+      },
+      {
+        "ingredient": "minced cabbage",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "minced chicken",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "sesame oil",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Mix cabbage, chicken, garlic, sesame oil and a little soy sauce",
+      "Fill wrappers and seal edges with water",
+      "Pan-fry bases until golden, add a splash of water and cover to steam",
+      "Cook until chicken filling is fully cooked and serve with soy sauce"
+    ]
+  },
+  {
+    "idMeal": "local-39",
+    "strMeal": "Kung Pao Chicken",
+    "strMealThumb": "/images/recipe-39.svg",
+    "strArea": "Chinese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken breast",
+        "measure": "350 g"
+      },
+      {
+        "ingredient": "bell pepper",
+        "measure": "1"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "rice vinegar",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "roasted peanuts",
+        "measure": "1/3 cup"
+      },
+      {
+        "ingredient": "dry chilies",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Dice chicken and stir-fry until fully cooked",
+      "Add diced pepper and chilies and cook briefly",
+      "Stir in soy sauce and vinegar with a splash of water",
+      "Toss in peanuts and serve with rice"
+    ]
+  },
+  {
+    "idMeal": "local-40",
+    "strMeal": "Mapo Tofu",
+    "strMealThumb": "/images/recipe-40.svg",
+    "strArea": "Chinese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "firm tofu",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "minced pork",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "doubanjiang",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "stock",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Sichuan pepper",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Brown minced pork with garlic",
+      "Stir in doubanjiang and stock and bring to a simmer",
+      "Add tofu cubes and gently simmer until heated through",
+      "Finish with ground Sichuan pepper"
+    ]
+  },
+  {
+    "idMeal": "local-41",
+    "strMeal": "Vegetable Dumplings",
+    "strMealThumb": "/images/recipe-41.svg",
+    "strArea": "Chinese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "dumpling wrappers",
+        "measure": "20"
+      },
+      {
+        "ingredient": "shredded cabbage",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "mushrooms",
+        "measure": "100 g"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "sesame oil",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Finely chop cabbage, carrot and mushrooms",
+      "Cook filling briefly and season with soy sauce and sesame oil",
+      "Fill and seal wrappers securely",
+      "Steam dumplings until wrappers are tender and filling is hot"
+    ]
+  },
+  {
+    "idMeal": "local-42",
+    "strMeal": "Chow Mein",
+    "strMealThumb": "/images/recipe-42.svg",
+    "strArea": "Chinese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "egg noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "cabbage",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "bell pepper",
+        "measure": "1"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Cook noodles until just tender and drain",
+      "Stir-fry sliced vegetables over high heat",
+      "Add noodles and soy sauce and toss until evenly coated",
+      "Serve immediately"
+    ]
+  },
+  {
+    "idMeal": "local-43",
+    "strMeal": "Hot and Sour Soup",
+    "strMealThumb": "/images/recipe-43.svg",
+    "strArea": "Chinese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "vegetable stock",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "tofu",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "mushrooms",
+        "measure": "100 g"
+      },
+      {
+        "ingredient": "rice vinegar",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "white pepper",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Simmer sliced mushrooms in stock until tender",
+      "Add tofu, soy sauce and white pepper",
+      "Stir in vinegar and adjust seasoning",
+      "Serve steaming hot"
+    ]
+  },
+  {
+    "idMeal": "local-44",
+    "strMeal": "Spring Rolls",
+    "strMealThumb": "/images/recipe-44.svg",
+    "strArea": "Chinese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "spring roll wrappers",
+        "measure": "8"
+      },
+      {
+        "ingredient": "shredded cabbage",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "bean sprouts",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "frying oil",
+        "measure": "2 cups"
+      }
+    ],
+    "steps": [
+      "Stir-fry vegetables briefly with soy sauce and cool completely",
+      "Fill wrappers and seal with flour paste",
+      "Fry in batches until golden and crisp",
+      "Drain and serve with dipping sauce"
+    ]
+  },
+  {
+    "idMeal": "local-45",
+    "strMeal": "Sweet and Sour Chicken",
+    "strMealThumb": "/images/recipe-45.svg",
+    "strArea": "Chinese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken breast",
+        "measure": "350 g"
+      },
+      {
+        "ingredient": "bell pepper",
+        "measure": "1"
+      },
+      {
+        "ingredient": "pineapple",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "rice vinegar",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "ketchup",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Cook diced chicken in a hot pan until fully cooked",
+      "Add bell pepper and pineapple and stir-fry",
+      "Mix vinegar, ketchup, sugar and a little water and pour into pan",
+      "Simmer until glossy and coat chicken"
+    ]
+  },
+  {
+    "idMeal": "local-46",
+    "strMeal": "Scallion Pancakes",
+    "strMealThumb": "/images/recipe-46.svg",
+    "strArea": "Chinese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "plain flour",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "hot water",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "scallions",
+        "measure": "1 bunch"
+      },
+      {
+        "ingredient": "sesame oil",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "salt",
+        "measure": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      "Mix flour and hot water into a soft dough and rest 20 minutes",
+      "Roll thinly, brush with oil and sprinkle scallions",
+      "Coil and roll again into pancakes",
+      "Pan-fry until crisp on both sides"
+    ]
+  },
+  {
+    "idMeal": "local-47",
+    "strMeal": "Pad Thai",
+    "strMealThumb": "/images/recipe-47.svg",
+    "strArea": "Thai",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "rice noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "firm tofu",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "bean sprouts",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "tamarind paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "fish sauce",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Soak rice noodles until pliable",
+      "Stir-fry tofu, scramble eggs and add drained noodles",
+      "Add tamarind and fish sauce with a little water and toss until noodles are tender",
+      "Fold in bean sprouts and serve"
+    ]
+  },
+  {
+    "idMeal": "local-48",
+    "strMeal": "Thai Green Curry",
+    "strMealThumb": "/images/recipe-48.svg",
+    "strArea": "Thai",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "green curry paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 can"
+      },
+      {
+        "ingredient": "chicken",
+        "measure": "250 g"
+      },
+      {
+        "ingredient": "eggplant",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "bell pepper",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Thai basil",
+        "measure": "1 handful"
+      }
+    ],
+    "steps": [
+      "Fry curry paste in a little thick coconut milk until fragrant",
+      "Add chicken and stir until coated",
+      "Pour in remaining coconut milk and simmer until chicken is fully cooked",
+      "Add vegetables and basil and cook until tender"
+    ]
+  },
+  {
+    "idMeal": "local-49",
+    "strMeal": "Tom Yum Soup",
+    "strMealThumb": "/images/recipe-49.svg",
+    "strArea": "Thai",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "stock",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "shrimp",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "lemongrass",
+        "measure": "2 stalks"
+      },
+      {
+        "ingredient": "kaffir lime leaves",
+        "measure": "3"
+      },
+      {
+        "ingredient": "mushrooms",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "lime juice",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer stock with bruised lemongrass and lime leaves",
+      "Add mushrooms and cook until tender",
+      "Add shrimp and simmer until opaque and cooked",
+      "Turn off heat and season with lime juice"
+    ]
+  },
+  {
+    "idMeal": "local-50",
+    "strMeal": "Tom Kha Gai",
+    "strMealThumb": "/images/recipe-50.svg",
+    "strArea": "Thai",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken breast",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 can"
+      },
+      {
+        "ingredient": "stock",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "galangal",
+        "measure": "3 slices"
+      },
+      {
+        "ingredient": "lemongrass",
+        "measure": "2 stalks"
+      },
+      {
+        "ingredient": "lime juice",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer coconut milk and stock with galangal and lemongrass",
+      "Add sliced chicken and cook gently until fully cooked",
+      "Remove tough aromatics if desired",
+      "Season with lime juice and serve"
+    ]
+  },
+  {
+    "idMeal": "local-51",
+    "strMeal": "Mango Sticky Rice",
+    "strMealThumb": "/images/recipe-51.svg",
+    "strArea": "Thai",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "glutinous rice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 can"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "3 tbsp"
+      },
+      {
+        "ingredient": "salt",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "ripe mangoes",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Soak glutinous rice for at least 4 hours and steam until tender",
+      "Warm coconut milk with sugar and salt",
+      "Fold most coconut milk into warm rice and rest to absorb",
+      "Serve with sliced mango and remaining sauce"
+    ]
+  },
+  {
+    "idMeal": "local-52",
+    "strMeal": "Pad See Ew",
+    "strMealThumb": "/images/recipe-52.svg",
+    "strArea": "Thai",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "wide rice noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "chicken",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "Chinese broccoli",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "egg",
+        "measure": "1"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "dark soy sauce",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Stir-fry sliced chicken until fully cooked",
+      "Add greens and push to one side to scramble egg",
+      "Add noodles and both soy sauces",
+      "Toss over high heat until noodles are lightly charred"
+    ]
+  },
+  {
+    "idMeal": "local-53",
+    "strMeal": "Som Tam Papaya Salad",
+    "strMealThumb": "/images/recipe-53.svg",
+    "strArea": "Thai",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "shredded green papaya",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "tomato",
+        "measure": "1"
+      },
+      {
+        "ingredient": "long bean",
+        "measure": "1"
+      },
+      {
+        "ingredient": "lime juice",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "fish sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "palm sugar",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Lightly pound chopped long bean and tomato with lime juice, fish sauce and sugar",
+      "Add shredded green papaya",
+      "Toss until coated and slightly softened",
+      "Serve immediately"
+    ]
+  },
+  {
+    "idMeal": "local-54",
+    "strMeal": "Thai Basil Chicken",
+    "strMealThumb": "/images/recipe-54.svg",
+    "strArea": "Thai",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "minced chicken",
+        "measure": "350 g"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Thai chilies",
+        "measure": "2"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "oyster sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Thai basil",
+        "measure": "1 handful"
+      }
+    ],
+    "steps": [
+      "Stir-fry garlic and chilies in a hot pan",
+      "Add minced chicken and cook thoroughly",
+      "Season with soy and oyster sauces",
+      "Fold in basil until wilted and serve with rice"
+    ]
+  },
+  {
+    "idMeal": "local-55",
+    "strMeal": "Pho Ga",
+    "strMealThumb": "/images/recipe-55.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "rice noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "chicken stock",
+        "measure": "1 liter"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "ginger",
+        "measure": "1 piece"
+      },
+      {
+        "ingredient": "Thai basil",
+        "measure": "1 handful"
+      }
+    ],
+    "steps": [
+      "Char onion and ginger lightly in a dry pan",
+      "Simmer in stock with chicken until fully cooked and tender",
+      "Cook rice noodles separately and divide into bowls",
+      "Add sliced chicken, strain broth over and top with herbs"
+    ]
+  },
+  {
+    "idMeal": "local-56",
+    "strMeal": "Banh Mi",
+    "strMealThumb": "/images/recipe-56.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "baguettes",
+        "measure": "2"
+      },
+      {
+        "ingredient": "tofu",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "daikon radish",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "cucumber",
+        "measure": "1"
+      },
+      {
+        "ingredient": "rice vinegar",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Quick-pickle shredded carrot and daikon in rice vinegar with a pinch of sugar",
+      "Pan-fry seasoned tofu until golden",
+      "Split baguettes and layer tofu, pickles and cucumber",
+      "Add herbs or chili to taste"
+    ]
+  },
+  {
+    "idMeal": "local-57",
+    "strMeal": "Bun Cha",
+    "strMealThumb": "/images/recipe-57.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "minced pork",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "rice vermicelli",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "fish sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "lime",
+        "measure": "1"
+      },
+      {
+        "ingredient": "fresh herbs",
+        "measure": "1 handful"
+      }
+    ],
+    "steps": [
+      "Season pork with fish sauce and sugar and form small patties",
+      "Grill or pan-fry until thoroughly cooked",
+      "Cook vermicelli and rinse under cool water",
+      "Serve pork with noodles, herbs and lime dipping sauce"
+    ]
+  },
+  {
+    "idMeal": "local-58",
+    "strMeal": "Banh Xeo",
+    "strMealThumb": "/images/recipe-58.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "rice flour",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "turmeric",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "bean sprouts",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "shrimp",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "spring onions",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Whisk rice flour, turmeric and coconut milk into a thin batter",
+      "Cook shrimp in a lightly oiled pan until done",
+      "Pour a thin layer of batter around pan and add bean sprouts",
+      "Cook until crisp, fold and serve with herbs"
+    ]
+  },
+  {
+    "idMeal": "local-59",
+    "strMeal": "Caramelized Fish",
+    "strMealThumb": "/images/recipe-59.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "firm fish fillets",
+        "measure": "350 g"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "fish sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "water",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "black pepper",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Melt sugar gently in a pan until amber",
+      "Carefully add water, fish sauce and garlic",
+      "Add fish and simmer gently until cooked through and sauce thickens",
+      "Finish with black pepper"
+    ]
+  },
+  {
+    "idMeal": "local-60",
+    "strMeal": "Vermicelli Noodle Salad",
+    "strMealThumb": "/images/recipe-60.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "rice vermicelli",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "cucumber",
+        "measure": "1"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "lettuce",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "lime juice",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Cook vermicelli and rinse under cool water",
+      "Julienne cucumber and carrot and shred lettuce",
+      "Mix lime juice and soy sauce for dressing",
+      "Toss noodles with vegetables and dressing"
+    ]
+  },
+  {
+    "idMeal": "local-61",
+    "strMeal": "Vietnamese Fried Rice",
+    "strMealThumb": "/images/recipe-61.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "cold cooked rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "peas",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "fish sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Heat oil in a wok and scramble eggs",
+      "Add diced carrot and peas and cook until tender",
+      "Add cold rice and stir-fry until hot",
+      "Season with fish sauce and serve"
+    ]
+  },
+  {
+    "idMeal": "local-62",
+    "strMeal": "Che Ba Mau",
+    "strMealThumb": "/images/recipe-62.svg",
+    "strArea": "Vietnamese",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "cooked red beans",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "cooked mung beans",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "pandan jelly",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "crushed ice",
+        "measure": "1 cup"
+      }
+    ],
+    "steps": [
+      "Sweeten cooked beans lightly and cool",
+      "Prepare and cube pandan jelly",
+      "Layer red beans, mung beans and jelly in glasses",
+      "Top with coconut milk and crushed ice"
+    ]
+  },
+  {
+    "idMeal": "local-63",
+    "strMeal": "Nasi Lemak",
+    "strMealThumb": "/images/recipe-63.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "rice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "pandan leaves",
+        "measure": "2"
+      },
+      {
+        "ingredient": "peanuts",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "sambal",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Cook rice with coconut milk, pandan and enough water until fluffy",
+      "Boil eggs and toast peanuts",
+      "Prepare or warm sambal",
+      "Serve coconut rice with eggs, peanuts and sambal"
+    ]
+  },
+  {
+    "idMeal": "local-64",
+    "strMeal": "Char Kway Teow",
+    "strMealThumb": "/images/recipe-64.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "flat rice noodles",
+        "measure": "250 g"
+      },
+      {
+        "ingredient": "shrimp",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "bean sprouts",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Heat wok until very hot and cook shrimp until opaque",
+      "Scramble eggs and add noodles",
+      "Toss with soy sauce and bean sprouts over high heat",
+      "Serve immediately"
+    ]
+  },
+  {
+    "idMeal": "local-65",
+    "strMeal": "Laksa Lemak",
+    "strMealThumb": "/images/recipe-65.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "rice noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "laksa paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 can"
+      },
+      {
+        "ingredient": "stock",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "tofu puffs",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "bean sprouts",
+        "measure": "1 cup"
+      }
+    ],
+    "steps": [
+      "Fry laksa paste until fragrant",
+      "Add coconut milk and stock and simmer 10 minutes",
+      "Add tofu puffs and heat through",
+      "Serve over cooked noodles with bean sprouts"
+    ]
+  },
+  {
+    "idMeal": "local-66",
+    "strMeal": "Roti Canai",
+    "strMealThumb": "/images/recipe-66.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "plain flour",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "water",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "salt",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "butter",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Knead flour, water, oil and salt into an elastic dough and rest at least 1 hour",
+      "Stretch dough very thin on an oiled surface",
+      "Fold into layered squares or coils",
+      "Pan-fry with butter until golden on both sides"
+    ]
+  },
+  {
+    "idMeal": "local-67",
+    "strMeal": "Mee Goreng",
+    "strMealThumb": "/images/recipe-67.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "yellow noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "tofu",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "cabbage",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "tomato",
+        "measure": "1"
+      },
+      {
+        "ingredient": "sweet soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "chili sauce",
+        "measure": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Stir-fry tofu until golden",
+      "Add cabbage and tomato and cook briefly",
+      "Add noodles, sweet soy and chili sauce",
+      "Toss until heated through"
+    ]
+  },
+  {
+    "idMeal": "local-68",
+    "strMeal": "Chicken Satay",
+    "strMealThumb": "/images/recipe-68.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken breast",
+        "measure": "350 g"
+      },
+      {
+        "ingredient": "turmeric",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "coriander",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "peanut sauce",
+        "measure": "1/2 cup"
+      }
+    ],
+    "steps": [
+      "Slice chicken and marinate with turmeric, coriander, soy and oil",
+      "Thread onto skewers",
+      "Grill until fully cooked to 74°C internally",
+      "Serve with peanut sauce"
+    ]
+  },
+  {
+    "idMeal": "local-69",
+    "strMeal": "Nasi Kerabu",
+    "strMealThumb": "/images/recipe-69.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "rice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "shredded cabbage",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "cucumber",
+        "measure": "1"
+      },
+      {
+        "ingredient": "mixed herbs",
+        "measure": "1 handful"
+      },
+      {
+        "ingredient": "lime",
+        "measure": "1"
+      },
+      {
+        "ingredient": "toasted coconut",
+        "measure": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Cook rice and let cool slightly",
+      "Slice cucumber and finely shred cabbage and herbs",
+      "Arrange rice with vegetables and toasted coconut",
+      "Squeeze lime over before serving"
+    ]
+  },
+  {
+    "idMeal": "local-70",
+    "strMeal": "Curry Laksa",
+    "strMealThumb": "/images/recipe-70.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "rice noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "curry laksa paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 can"
+      },
+      {
+        "ingredient": "stock",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "chicken",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "bean sprouts",
+        "measure": "100 g"
+      }
+    ],
+    "steps": [
+      "Fry curry paste in a saucepan",
+      "Add coconut milk and stock and simmer",
+      "Add chicken and cook fully, then add bean sprouts briefly",
+      "Ladle over cooked rice noodles"
+    ]
+  },
+  {
+    "idMeal": "local-71",
+    "strMeal": "Cendol",
+    "strMealThumb": "/images/recipe-71.svg",
+    "strArea": "Malaysian",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "pandan jelly noodles",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "coconut milk",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "palm sugar syrup",
+        "measure": "3 tbsp"
+      },
+      {
+        "ingredient": "shaved ice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "cooked red beans",
+        "measure": "1/2 cup"
+      }
+    ],
+    "steps": [
+      "Prepare pandan jelly noodles and chill",
+      "Divide shaved ice into serving bowls",
+      "Add pandan noodles and red beans",
+      "Pour coconut milk and palm sugar syrup over"
+    ]
+  },
+  {
+    "idMeal": "local-72",
+    "strMeal": "Chicken Adobo",
+    "strMealThumb": "/images/recipe-72.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken thighs",
+        "measure": "400 g"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "1/3 cup"
+      },
+      {
+        "ingredient": "vinegar",
+        "measure": "1/3 cup"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "4 cloves"
+      },
+      {
+        "ingredient": "bay leaves",
+        "measure": "2"
+      },
+      {
+        "ingredient": "peppercorns",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Combine chicken, soy sauce, vinegar, garlic, bay leaves and peppercorns",
+      "Simmer covered until chicken is fully cooked and tender",
+      "Uncover and reduce sauce slightly",
+      "Serve with rice"
+    ]
+  },
+  {
+    "idMeal": "local-73",
+    "strMeal": "Pancit Canton",
+    "strMealThumb": "/images/recipe-73.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "egg noodles",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "chicken",
+        "measure": "150 g"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "cabbage",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "soy sauce",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "stock",
+        "measure": "1 cup"
+      }
+    ],
+    "steps": [
+      "Cook chicken strips in a pan until fully cooked",
+      "Add carrot and cabbage and stir-fry",
+      "Pour in stock and soy sauce, then add noodles",
+      "Cook until noodles absorb liquid and are tender"
+    ]
+  },
+  {
+    "idMeal": "local-74",
+    "strMeal": "Sinigang",
+    "strMealThumb": "/images/recipe-74.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "pork shoulder",
+        "measure": "300 g"
+      },
+      {
+        "ingredient": "tomato",
+        "measure": "1"
+      },
+      {
+        "ingredient": "radish",
+        "measure": "1"
+      },
+      {
+        "ingredient": "green beans",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "tamarind paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "water",
+        "measure": "4 cups"
+      }
+    ],
+    "steps": [
+      "Simmer pork in water until tender",
+      "Add tomato and radish and cook until softened",
+      "Add green beans and tamarind paste",
+      "Simmer briefly and adjust sourness to taste"
+    ]
+  },
+  {
+    "idMeal": "local-75",
+    "strMeal": "Lumpiang Shanghai",
+    "strMealThumb": "/images/recipe-75.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "spring roll wrappers",
+        "measure": "20"
+      },
+      {
+        "ingredient": "minced pork",
+        "measure": "250 g"
+      },
+      {
+        "ingredient": "carrot",
+        "measure": "1"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "egg",
+        "measure": "1"
+      },
+      {
+        "ingredient": "frying oil",
+        "measure": "2 cups"
+      }
+    ],
+    "steps": [
+      "Mix minced pork with finely chopped carrot, onion and egg",
+      "Roll small portions tightly in wrappers",
+      "Fry in batches until crisp and pork filling is fully cooked",
+      "Drain and serve with dipping sauce"
+    ]
+  },
+  {
+    "idMeal": "local-76",
+    "strMeal": "Chicken Inasal",
+    "strMealThumb": "/images/recipe-76.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "chicken thighs",
+        "measure": "400 g"
+      },
+      {
+        "ingredient": "calamansi juice",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "vinegar",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "annatto oil",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "ginger",
+        "measure": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in calamansi, vinegar, garlic and ginger in the refrigerator",
+      "Brush with annatto oil",
+      "Grill, turning occasionally, until fully cooked",
+      "Serve with rice"
+    ]
+  },
+  {
+    "idMeal": "local-77",
+    "strMeal": "Kare-Kare",
+    "strMealThumb": "/images/recipe-77.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "beef stew meat",
+        "measure": "350 g"
+      },
+      {
+        "ingredient": "peanut butter",
+        "measure": "1/3 cup"
+      },
+      {
+        "ingredient": "eggplant",
+        "measure": "1"
+      },
+      {
+        "ingredient": "green beans",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "bok choy",
+        "measure": "1 bunch"
+      },
+      {
+        "ingredient": "stock",
+        "measure": "3 cups"
+      }
+    ],
+    "steps": [
+      "Simmer beef in stock until very tender",
+      "Add eggplant and green beans and cook until soft",
+      "Whisk peanut butter into some warm broth and return to pot",
+      "Add bok choy and simmer briefly"
+    ]
+  },
+  {
+    "idMeal": "local-78",
+    "strMeal": "Arroz Caldo",
+    "strMealThumb": "/images/recipe-78.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": false,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "rice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "chicken",
+        "measure": "250 g"
+      },
+      {
+        "ingredient": "ginger",
+        "measure": "1 piece"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "3 cloves"
+      },
+      {
+        "ingredient": "chicken stock",
+        "measure": "5 cups"
+      },
+      {
+        "ingredient": "spring onions",
+        "measure": "2"
+      }
+    ],
+    "steps": [
+      "Sauté ginger and garlic until fragrant",
+      "Add chicken and cook briefly",
+      "Add rice and stock and simmer, stirring, until porridge is creamy and chicken fully cooked",
+      "Top with spring onions"
+    ]
+  },
+  {
+    "idMeal": "local-79",
+    "strMeal": "Tortang Talong",
+    "strMealThumb": "/images/recipe-79.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": true,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "eggplants",
+        "measure": "2"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "salt",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "black pepper",
+        "measure": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      "Roast eggplants until skin chars and flesh softens",
+      "Peel while keeping stems intact and flatten flesh with a fork",
+      "Dip in beaten seasoned eggs",
+      "Pan-fry until egg coating is set and golden"
+    ]
+  },
+  {
+    "idMeal": "local-80",
+    "strMeal": "Halo-Halo",
+    "strMealThumb": "/images/recipe-80.svg",
+    "strArea": "Filipino",
+    "strCategory": "Recipe",
+    "vegetarian": true,
+    "vegan": false,
+    "source": "local",
+    "readyInMinutes": null,
+    "servings": null,
+    "ingredients": [
+      {
+        "ingredient": "sweetened beans",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "fruit jelly",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "jackfruit",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "shaved ice",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "evaporated milk",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "ube ice cream",
+        "measure": "1 scoop"
+      }
+    ],
+    "steps": [
+      "Layer beans, jelly and jackfruit in a tall glass",
+      "Fill with shaved ice",
+      "Pour evaporated milk over ice",
+      "Top with ube ice cream and serve immediately"
+    ]
+  }
+]

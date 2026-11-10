@@ -1,0 +1,1 @@
+Korean recipes now use the 10 exact Wikimedia Commons files selected by the user. The URLs are served online (not bundled locally), since the build environment cannot download Wikimedia media. The other cuisines are unchanged. See KOREAN_IMAGE_CREDITS.md.
